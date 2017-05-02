@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyVocabulary</string>
+    // button text's
+    <string name="btn_learn_words">Учить слова</string>
+    <string name="btn_add_word">Добавить слово</string>
+    <string name="btn_my_vocabulary">Мой словарь</string>
+    <string name="btn_check">Проверить</string>
+    <string name="btn_help">Подсказка</string>
+</resources>
