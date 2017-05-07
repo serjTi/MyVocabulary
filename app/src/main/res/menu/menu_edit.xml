@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mi_edit"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="Редактировать"/>
+    <item
+        android:id="@+id/mi_delete"
+        android:icon="@drawable/deletered48"
+        android:title="Удалить"/>
+</menu>

@@ -1,13 +1,11 @@
 package s.tertj.myvocabulary;
 
 public class AppConstants {
-    public static final String YANDEX_KEY = "trnsl.1.1.20170502T105007Z.1d17574aca488830.910fe88deea48cbc0250ea986ac801a6e4096759";
+    public static final String YANDEX_KEY = "trnsl.1.1.20170502T133658Z.21d7c4a006c46a08.566efb106d86e345220983f06a580b2d40badd9f";
+    public static final String YANDEX_URL = "https://translate.yandex.net";
 
     public static final String LOG_TAG = "LOG";
 
-    public static final String ID = "id";
-    public static final String ENGLISH_WORD = "englishWord";
-    public static final String RUSSIAN_WORD = "russianWord";
 
 
 }
